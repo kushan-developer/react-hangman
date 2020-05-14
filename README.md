@@ -1,5 +1,7 @@
 # Hangman Game
 
+### Checkout the game at https://react-hangmangame.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
